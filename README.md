@@ -28,6 +28,7 @@ Curated AI tools, SaaS platforms, startup resources, and profitable startup idea
 | [MeetEdgar](https://meetedgar.com/) | Social media automation |
 | [Referral Factory](https://referralfactory.com/) | Referral marketing platform |
 | [Growth Machine](https://www.growthmachine.com/) | Content marketing agency |
+| [NotFair](https://github.com/nowork-studio/NotFair) | Open-source Claude Code skills for SEO, Google Ads, and Meta Ads — connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP (~2.9k stars) |
 
 ---
 
