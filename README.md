@@ -24,6 +24,7 @@ Curated AI tools, SaaS platforms, startup resources, and profitable startup idea
 | Tool | Description |
 |---|---|
 | [Ahrefs](https://ahrefs.com/) | SEO toolkit for businesses |
+| [GetAppNiche](https://getappniche.com/) | iOS App Store market intelligence for revenue estimates, ASO keywords, competitor ads, reviews, and niche research |
 | [SEOTesting](https://seotesting.com/) | SEO testing and analytics |
 | [MeetEdgar](https://meetedgar.com/) | Social media automation |
 | [Referral Factory](https://referralfactory.com/) | Referral marketing platform |
