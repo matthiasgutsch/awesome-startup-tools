@@ -14,6 +14,7 @@ Curated AI tools, SaaS platforms, startup resources, and profitable startup idea
 | [Uizard](https://uizard.io/) | AI-powered UI design tool |
 | [EasyGen](https://easygen.io/) | AI LinkedIn content generation |
 | [Fireflies.ai](https://fireflies.ai/) | AI meeting transcription tool |
+| [IdeaHunter](https://ideahunter.today) | AI startup idea research and validation |
 | [Lovable](https://lovable.dev/) | AI coding assistant |
 | [Rezi](https://www.rezi.ai/) | AI resume optimization |
 
