@@ -49,6 +49,7 @@ Curated AI tools, SaaS platforms, startup resources, and profitable startup idea
 |---|---|
 | [Wappalyzer](https://www.wappalyzer.com/) | Website technology detection |
 | [Browserless](https://www.browserless.io/) | Headless browser automation |
+| [Agent QA](https://github.com/vostride/agent-qa) | Natural-language web and mobile regression testing through CLI or MCP |
 | [Bubble](https://bubble.io/) | No-code app builder |
 | [Webflow](https://webflow.com/) | Visual website development |
 | [Laravel](https://laravel.com/) | PHP framework |
