@@ -16,6 +16,7 @@ Curated AI tools, SaaS platforms, startup resources, and profitable startup idea
 | [Fireflies.ai](https://fireflies.ai/) | AI meeting transcription tool |
 | [Lovable](https://lovable.dev/) | AI coding assistant |
 | [Rezi](https://www.rezi.ai/) | AI resume optimization |
+| [ResumeAI](https://withresumeai.com/) | AI resume builder + free ATS checker (3/day anon, 10/day free); State of ATS 2026 |
 
 ---
 
